@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Think alround on the Shell Beach in San Diego
+summary: 活着的感觉既不是恍如昨日也不是度日如年,刚来圣地亚哥的时候每到周末一趟趟往外跑,今天走的没那么潇洒因为再回来就要告别了
 featured-img: SD_beach_20171219
 ---
 
