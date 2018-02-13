@@ -1,7 +1,7 @@
 ---
 layout: compress
 ---
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en_US" }}">
 
   {% include head.html %}
 
@@ -20,15 +20,15 @@ layout: compress
 
     <div class="hero lazyload" data-bg="{{site.url}}/assets/img/posts/sleek_lg.jpg">
       <div class="hero__wrap">
-        <h1 class="hero__title">Sleek</h1>
-        <p class="hero__meta">Modern Jekyll theme focused on speed performance & SEO best practices</p>
+        <h1 class="hero__title">Jing Xiao</h1>
+        <p class="hero__meta">Welcome to visit my website</p>
       </div>
     </div>
 
     <main class="site__content">
       <section class="blog">
         <div class="container">
-          <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+          <div class="post-list" itemscope="" itemtype="">
 
             {% for post in site.posts %}
               {% include card.html %}
