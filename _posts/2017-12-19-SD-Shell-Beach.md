@@ -2,7 +2,6 @@
 layout: post
 title: Look at the see on the Shell Beach in San Diego
 featured-img: SD_beach_20171219
-mathjax: true
 ---
 
 活着的感觉既不是恍如昨日也不是度日如年
