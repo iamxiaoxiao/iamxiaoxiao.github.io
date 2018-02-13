@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Jing Xiao's website
+title: Sleek Jekyll Theme
 ---
