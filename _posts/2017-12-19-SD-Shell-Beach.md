@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Look at the see on the Shell Beach in San Diego
+title: Think alround on the Shell Beach in San Diego
 featured-img: SD_beach_20171219
 ---
 
